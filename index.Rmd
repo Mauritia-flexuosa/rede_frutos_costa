@@ -1,8 +1,8 @@
 # Frutos consumidos antigamente citados por moradores de uma comunidade tradicional de pescadores artesanais em Florianópolis, SC.
 
-Pesquisa feita por alunos da [Escola Básica Municipal da Costa da Lagoa](https://comparaescola.com/index.php/escola-municipal-ebm-costa-da-lagoa-servidao-caminho-costa-da-lagoa-0-ponto-16-lagoa-da-conceicao-88062-370-florianopolis-sc/). Os dados foram passados para uma _edge table_ e a tabela e a rede abaixo foram construidos usando o [R](https://www.r-project.org/)
+Pesquisa feita por alunos da [Escola Básica Municipal da Costa da Lagoa](https://comparaescola.com/index.php/escola-municipal-ebm-costa-da-lagoa-servidao-caminho-costa-da-lagoa-0-ponto-16-lagoa-da-conceicao-88062-370-florianopolis-sc/). Os dados foram passados para uma _edge table_ e a tabela e a rede abaixo foram construidas usando o [R](https://www.r-project.org/).
 
-Eles perguntaram para os familiares mais velhos **quais os frutos eram mais consumidos antigamente**. `r emo::ji("banana")
+Cada aluno perguntou para seus familiares mais velhos **quais os frutos eram mais consumidos antigamente**. `r emo::ji("banana")
 
 ### Resultados
 
@@ -25,7 +25,7 @@ Os frutos menos citados foram lembrados pelos informates que fizeram mais citaç
 
 Estes resultados estão enviesados pelas lembranças e preferências dos informantes.
 
-Mesmo assim, é interessante notar que muitos frutos citados com maior frequência não existem mais hoje em dia ou pelo menos não são tão comuns, como podemos notar nos resultados do [Projeto Frutos da Costa](https://frutosdacosta.netlify.app/species.html).
+Mesmo assim, é interessante notar que muitos frutos citados com maior frequência não existem mais hoje em dia ou pelo menos não são tão comuns como podemos notar nos resultados do [Projeto Frutos da Costa](https://frutosdacosta.netlify.app/species.html).
 
 Os próximos passos são:
 
