@@ -1,0 +1,13 @@
+""	Ticum	Biguaçu	Butiá	Fruto-do-conde	Jambo	Bilicó	Carambola	Jabuticaba	Cabeludinha	Morango-do-mato	Ameixa	Maria-mole	Bergamota	Trinca-trinca	Ingá	Ingá-feijão	Nona-baboso	Jaca	Cajá	Araçá	Pêssego	Cajú	Laranja	Uva	Amora	Abacaxi	Abricó	Tâmara	Cidra	Figo
+M-67A	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+H-66	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+M-50	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+M-51A	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0
+H-51	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	1	0	1	1	1	1	1	1	1	0	0	0	0	0
+H-34	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+M-67	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+M-NA	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+M-61	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+H-NA	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+M-63	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+H-75	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	1	1
